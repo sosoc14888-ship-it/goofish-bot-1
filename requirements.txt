@@ -1,8 +1,6 @@
 aiogram==3.4.1
-aiosqlite==0.20.0
-aiohttp==3.9.5
-python-dotenv==1.0.1
-numpy==1.26.4
+aiosqlite
+aiohttp
+python-dotenv
+numpy
 googletrans==4.0.0rc1
-pydantic==2.6.4
-pydantic-core==2.16.3
