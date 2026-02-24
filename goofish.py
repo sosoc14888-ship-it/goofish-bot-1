@@ -26,7 +26,7 @@ class GoofishParser:
     Cookie берётся из браузера после входа в аккаунт.
     """
 
-    SEARCH_URL = "https://www.goofish.com/api/search"
+    SEARCH_URL = "https://www.goofish.com/search"
     # Альтернативный endpoint (Taobao API, используется мобильным приложением)
     TAOBAO_URL = "https://h5api.m.taobao.com/h5/mtop.taobao.idlefish.search.api/1.0/"
 
